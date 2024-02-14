@@ -273,8 +273,6 @@ section {
     margin-bottom: 4px;
     letter-spacing: 0.04em;
     text-align: left;
-    display: flex;
-    flex-direction: column;
     color: #8E8F99;
 }
 
