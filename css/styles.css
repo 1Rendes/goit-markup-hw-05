@@ -265,18 +265,17 @@ section {
 }
 
 .form-label {
+    display: block;
     position: relative;
     font-size: 12px;
     font-weight: 400;
     line-height: 1.17;
-    display: block;
     margin-bottom: 4px;
     letter-spacing: 0.04em;
     text-align: left;
     display: flex;
     flex-direction: column;
     color: #8E8F99;
-    
 }
 
 .form-input {
