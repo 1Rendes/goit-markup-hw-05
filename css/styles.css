@@ -322,7 +322,6 @@ section {
 }
 
 .form-textarea {
-    margin-top: 4px;
     padding: 8px 16px;
     width: 360px;
     height: 120px;
@@ -343,14 +342,11 @@ section {
 }
 
 .label-checkbox {
-    display: flex;
-    align-items: center;
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    justify-content: left;
 }
 
 .div-form-checkbox a {
@@ -386,12 +382,7 @@ section {
 }
 
 .div-form-checkbox {
-    display: flex;
-    box-sizing: border-box;
     margin-bottom: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .div-form-checkbox p {
